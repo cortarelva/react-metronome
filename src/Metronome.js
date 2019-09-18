@@ -1,6 +1,5 @@
 import React from 'react';
 import './Metronome.css';
-import { directive } from '@babel/types';
 import click1 from '../src/sounds/click1.wav';
 import click2 from '../src/sounds/click2.wav';
 
